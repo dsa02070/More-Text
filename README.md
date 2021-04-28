@@ -1,2 +1,4 @@
 # text-ellipsis
- 텍스트 show more
+
+04.28 text-ellipsis
+jquery class
